@@ -1,6 +1,6 @@
 # The Oasis Jukebox Owes Me One Song
 
-> **[Photo:** the jukebox from a few feet back, so readers can see what it looks like and where it sits in the bar**]**
+![alt text](DDE8D163-C394-49CF-8111-8B1609E2FA91_1_105_c.jpeg)
 
 There's a pool bar near me called Oasis, and like a lot of bars, it has one of those touchscreen jukeboxes on the wall. You put money in, it gives you credits, and you spend the credits on songs. Simple enough, right? That's what I thought too.
 
@@ -8,7 +8,9 @@ There's a pool bar near me called Oasis, and like a lot of bars, it has one of t
 
 I was there on a weeknight with Mathew (roommate), and between games I walked over to put on some music. I fed in 5 and got 12 credits. I already knew what song I wanted to play, so I searched for it and queued it up. That one cost 2 credits.
 
-> **[Screenshot:** a song selection screen showing its credit price**]**
+![alt text](2C9819A6-ED1E-4ED3-A79B-9981420A5DF4_1_105_c.jpeg)
+
+![alt text](3D2C1692-0B90-49ED-BE6A-DBC402B4179E_1_105_c.jpeg)
 
 Then I picked a second song, and it cost 3 credits, which was different from the first one. After picking a few songs, I was left with 1 credit, and that's where things got annoying.
 
