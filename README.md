@@ -5,3 +5,6 @@
 ### My name is Logan Roche, and I am a senior studying computer science. I am working towards a career in full-stack software engineer with previous internship experience Chevron and HPE.
 
 
+## Journal Entries
+
+- [The Oasis Jukebox Owes Me One Song](journal-entries/oasis-jukebox.md)
